@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Zerpyre21
+- 👀 Esto es un proyecto privado ...
+- 🌱 semilla del proyecto joblibt ...
+- 📫 cualquier duda o preguntas a Jose@joblibt.com ...
+
+<!---
+Zerpyre21/Zerpyre21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
